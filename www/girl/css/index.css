@@ -1,0 +1,17 @@
+
+body {
+    background-color: gray;
+}
+h1 {
+    font-size: 100px;
+    margin-top: 200px;
+    text-align: center;
+    color: hotpink;
+    text-shadow: 1px 1px 1px #000;   
+}
+img {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+}
